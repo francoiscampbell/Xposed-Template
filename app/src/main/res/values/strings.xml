@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Xposed-Template</string>
+    <string name="xposeddescription">Xposed-Template</string>
+</resources>
